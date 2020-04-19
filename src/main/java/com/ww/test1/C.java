@@ -5,5 +5,6 @@ public class C {
 
         System.out.print("123");
         System.out.print("33333");
+        System.out.print("00000");
     }
 }
